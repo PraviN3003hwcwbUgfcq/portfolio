@@ -261,7 +261,7 @@
 
 import { motion } from "framer-motion";
 import resume from "../assets/images/Pravin_Resumes.pdf";
-import pravin1 from "../assets/images/pravin1.jpg";
+import pravin1 from "../assets/images/Pravin1.jpg";
 
 import {
   FaCode,
